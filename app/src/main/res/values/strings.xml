@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DvaActivity</string>
+    <string-array name="txt">
+        <item>КАЖДЫЙ</item>
+        <item>ОХОТНИК</item>
+        <item>ЖЕЛАЕТ</item>
+        <item>ЗНАТЬ</item>
+        <item>ГДЕ</item>
+        <item>СИДИТ</item>
+        <item>ФАЗАН</item>
+    </string-array>
+</resources>
